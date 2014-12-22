@@ -1,0 +1,4 @@
+name: LansingExample
+main: io.lansing.core.plugin.LansingExample
+version: 1.0.1
+depend: [LansingCore]
